@@ -1,0 +1,129 @@
+.background_nav{
+    background-color: transparent;
+}
+
+.img-search{
+    width: 15px;
+    height: 15px;
+}
+
+.btn-barras {
+    padding: 0px 15px 0px 15px;
+}
+
+.form-search{
+    margin-left: 80px;
+    background-color: #f1f3f4;
+    border-color: #f1f3f4;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.input-form-search-nav{
+    width: 720px!important;
+    background: #f1f3f4;
+    border-color: #f1f3f4;
+}
+
+.btn-search {
+    background-color: #f1f3f4;
+    border-color: #f1f3f4;
+    border-radius: none;
+    padding-left: 20px;
+}
+
+.btns-nav{
+    color: #797979;
+    border-color: transparent;
+}
+
+.btn-escrever{
+    margin-top: 10px;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.a-nav-vertical{
+    color: #6c757d;
+    margin-left: 20px;
+}
+
+.border-divs{
+    border-color: #0000001a;
+    border-style: solid;
+    border-width: thin;
+}
+
+.btns-table{
+    color: #ec1818;
+    border-color: transparent;
+}
+
+.items-table{
+    margin-right: 10px;
+}
+
+.trash-item{
+    margin-left: 10px;
+}
+
+.hora-item{
+    text-align: right;
+}
+
+#div-escrever {
+    background-color: #ffffff;
+    width: 30%;
+    border-color: #0000001a;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 15px;
+}
+
+.div-mensagem-nova{
+    background-color: black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+}
+
+.p-mensagem-nova{
+    margin:0%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btn-enviar-email{
+    text-align: right;
+}
+
+.btn-send-email{
+    background-color: rgb(230, 80, 53);
+    color: white;
+    border-radius: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.apagar-div{
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    
+}
+
+.btn-mensagem-lida {
+    color: rgb(2, 131, 114);
+    margin-left: 5px;
+}
+
+.btn-continuar {
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+	padding: 2em;
+	margin: -2em;
+}

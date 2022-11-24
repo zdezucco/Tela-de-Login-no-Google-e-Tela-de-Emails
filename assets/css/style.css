@@ -1,0 +1,184 @@
+@font-face {
+    font-family: "Googles Regular";
+    src: url('../fonts/google-fonts/ProductSans-Regular.woff');
+}
+
+@font-face {
+    font-family: "Googles Bold";
+    src: url('../fonts/google-fonts/ProductSans-Bold.woff');
+}
+
+@font-face {
+    font-family: "Googles Medium";
+    src: url('../fonts/google-fonts/ProductSans-Medium.woff');
+}
+
+@font-face {
+    font-family: "Googles Black";
+    src: url('../fonts/google-fonts/ProductSans-Black.woff');
+}
+
+@font-face {
+    font-family: "Googles Light";
+    src: url('../fonts/google-fonts/ProductSans-Light.woff');
+}
+
+@font-face {
+    font-family: "Googles Thin";
+    src: url('../fonts/google-fonts/ProductSans-Thin.woff');
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: #fff;
+}
+
+.login {
+    width: 448px;
+    border: 1px solid #999;
+    border-radius: 12px;
+    margin: 100px auto 0px;
+}
+
+
+.login .header-content img {
+    width: 96px;
+    height: 36px;
+    margin-left: 175px;
+    margin-top: 40px;
+}
+
+.login .header-content h2 {
+    font-size: 34px;
+    font-family: "Googles Light";
+    text-align: center;
+    margin-top: 9px;
+}
+
+.login .header-content p {
+    text-align: center;
+    font-size: 17px;
+    margin-top: 8px;
+}
+
+.login .login-form {
+    display: block;
+    margin-top: 29px;
+}
+
+.login .login-form input{
+    color: #202124;
+    width: 371px;
+    height: 34px;
+    padding: 13px 15px;
+    border: 1px solid gray;
+    border-radius: 13px;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.login .login-form a {
+    color: #1a73e8;
+    font-size: 16px;
+    padding: 14px;
+    font-weight: 600;
+}
+
+.login .middle-content {
+    margin-top: 44px;
+    margin-left: 17px;
+}
+
+.login .middle-content p {
+    color: #202124;
+    font-size: 15px;
+}
+
+.login .middle-content a {
+    color: #1a73e8;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.login .footer-content a {
+    font-family: "Googles Regular";
+    font-size: 15px;
+    color: #174ea6;
+    padding: 15px;
+    border-radius: 7px;
+    margin-left: 3px;
+}
+
+.login .footer-content a:hover {
+    background-color: #999;
+    font-family: "Googles Bold";
+}
+
+.login .footer-content {
+    margin-top: 35px;
+    display: inline-block;
+    padding-bottom: 81px;
+    position: relative;
+}
+.login .footer-content button {
+    margin-left: 157px;
+    padding: 10px 29px;
+    font-family: "Googles Regular";
+    font-size: 17px;
+    color: #fff;
+    background-color: #1a73e8;
+    border: none;
+    border-radius: 5px;
+    margin-right: 23px;
+}
+
+.bottom-content {
+    margin-left: 381px;
+    margin-top: 18px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.bottom-content select {
+    display: inline-block;
+    border: none;
+    padding: 24px;
+}
+
+.bottom-content select option {
+    font-size: 12px;
+    font-family: Roboto;
+}
+
+.bottom-content .a-tags a {
+    display: inline-block;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202124;
+    font-weight: 600;
+    padding: 6px 16px;
+}
+
+.bottom-content .a-tags {
+    margin-left: 249px;
+    margin-top: -47px;
+}
